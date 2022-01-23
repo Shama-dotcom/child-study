@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.kg-img {
+  height: 70px;
+  width: 60%;
+  margin: 45px;
+  display: grid;
+}
+
+.kg-container {
+  display: flex;
+  margin: 60px;
+  background-color: rgb(235, 240, 174);
+  /* margin-right: 40vh;
+  margin-left: 20vh; */
+  padding: 20px 70px;
+}
+.s-name {
+  color: rgb(90, 171, 173);
+  font-size: 50px;
+  margin: 50px;
+}
+.sense-name {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background: rgb(236, 155, 243);
+  margin-left: 450px;
+}
+
+.sense-pic {
+  background: lightblue;
+  height: 90vh;
+  width: 20%;
+}
+

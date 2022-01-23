@@ -1,0 +1,12 @@
+
+
+.kg-head{
+    
+  color: rgb(247, 231, 16);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: center;
+  margin-top: 3px;
+  font-size: 45px;
+  background: rgb(71, 226, 71);
+  background-image: url("../../Images/pic-3.jpg");
+}

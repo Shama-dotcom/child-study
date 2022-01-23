@@ -1,0 +1,26 @@
+.nav{
+  height: 90px;
+  width: 224vh;
+  display: absolute;
+}
+.nav-head {
+  background-color: rgb(252, 255, 56);
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+.nav-img {
+  height: 90px;
+  width: 10%;
+  display: flex;
+  margin-left: 5px;
+}
+.nav-title {
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: rgb(117, 3, 89);
+  margin-left: 480px;
+  margin-top: 25px;
+  font-variant: small-caps;
+  font-size: 50px;
+}
+

@@ -1,0 +1,32 @@
+.header-nav {
+  display: flex;
+  padding-left: 70px;
+  background: url('../Images/nav2.jpg');
+  height: 13vh;
+  width: 100%;
+}
+h2 {
+  color: rgb(245, 31, 67);
+  padding: 10px 40px;
+  margin: 30px;
+  font-size: 25px;
+}
+
+.fp {
+  display: relative;
+  background-image: url('../Images/pic-1.jpg');
+  height: 73vh;
+  width: 100%;
+  text-align: center;
+}
+
+.fp-1 {
+  color: rgb(255, 221, 28);
+  font-size: 35px;
+}
+
+.fp-3 {
+  color: rgb(247, 128, 112);
+  text-align: center;
+  margin: 140px;
+}
